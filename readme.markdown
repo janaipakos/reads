@@ -27,7 +27,6 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 - :new_moon: [Adaptive Web Design <sub>Crafting Rich Experiences with Progressive Enhancement</sub>](http://amzn.to/1SCYY97)
 - :full_moon: [Sass and Compass in Action](http://amzn.com/1617290149)
-- 
 
 ## Art/Design
 
