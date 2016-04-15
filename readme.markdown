@@ -35,7 +35,6 @@
 - :full_moon: [Node.js in Practice](http://amzn.com/1617290939)
 - :full_moon_with_face: [Building Single-Page Web Apps with Meteor](http://amzn.com/1783988126)
 - :full_moon: [Learning Django Web Development](http://amzn.com/1783984406)
-- -:full_moon
 
 ## Internals
 
@@ -45,7 +44,7 @@
 
 - :full_moon: [Using Docker <sub>Developing and Deploying Software with Containers</sub>](http://amzn.com/1491915765)
 - :full_moon: [Big Data <sub>Principles and best practices of scalable realtime data systems</sub>](http://amzn.com/1617290343)
-- 
+
 ## Development Philosophy
 
 - :new_moon: [Clean Code <sub>A Handbook of Agile Software Craftsmanship</sub>](http://amzn.to/1S6YFnH)
